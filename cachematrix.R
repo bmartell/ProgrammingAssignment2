@@ -1,4 +1,4 @@
-## This function attach some functions to a matrix 
+## This function attaches some functions to a matrix 
 ## in order to cache values associated to it
 
 makeCacheMatrix <- function(x = matrix()) {
